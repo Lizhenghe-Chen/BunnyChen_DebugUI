@@ -1,0 +1,14 @@
+{
+  "name": "com.bunnychen.debugui",
+  "version": "1.0.0",
+  "displayName": "BunnyChen Debug UI",
+  "description": "一个用于调试和可视化数据的 Unity UI 工具包，支持自动数据绑定和高性能显示。",
+  "unity": "2021.3",
+  "author": {
+    "name": "BunnyChen",
+    "email": "",
+    "url": ""
+  },
+  "keywords": ["debug", "ui", "visualization", "tools"]
+}
+
